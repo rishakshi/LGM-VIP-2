@@ -1,0 +1,11 @@
+.myClass2{
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+
+.myClass2:hover{
+  transition: all 0.5s;
+  transform: scale(1.1);
+  box-shadow: 10px 5px 15px rgb(175, 175, 175);
+}
